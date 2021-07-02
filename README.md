@@ -7,7 +7,7 @@ Atualmente trabalho com e-commerce desenvolvendo lojas para clientes B2B.
 
 😄 Pronomes: ela/dela.
 
-🌱 Estou estudando javascript e ReactJS.
+🌱 Estou estudando principalmente javascript e ReactJS. Adoro CSS!
 
 💬 Busco formas de relacionar jornalismo e tecnologia sempre que possível.
 
