@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ruvism/ruvism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rúvila, tenho 28 anos e me formei em jornalismo pela ECA-USP em 2016. Em 2018 comecei minha transição de carreira e hoje em dia trabalho como desenvolvedora front-end!
+Atualmente trabalho com e-commerce desenvolvendo lojas para clientes B2B.
 
-Here are some ideas to get you started:
+# Estou disposta a ajudar e mentorar mulheres que querem mudar de carreira também. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+😄 Pronomes: ela/dela.
+🌱 Estou estudando javascript e ReactJS.
+💬 Busco formas de relacionar jornalismo e tecnologia sempre que possível.
+✨ Uso o Github principalmente para controlar meus estudos.
+⚡ Sou vegetariana há 5 anos, feminista e fora Bolsonaro.
+
+📫 ruvila.m@gmail.com
