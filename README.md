@@ -9,7 +9,7 @@ Atualmente trabalho com e-commerce desenvolvendo lojas para clientes B2B.
 
 💬 Busco formas de relacionar jornalismo e tecnologia sempre que possível. 
 
-🐣 Estou disposta a ajudar e mentorar mulheres que querem mudar de carreira também. 
+🐣 Estou disposta a ajudar mulheres que querem mudar de carreira também. 
 
 ✨ Uso o Github principalmente para controlar meus estudos.
 
