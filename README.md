@@ -13,6 +13,4 @@ Atualmente trabalho com e-commerce desenvolvendo lojas para clientes B2B.
 
 ✨ Uso o Github principalmente para controlar meus estudos.
 
-⚡ Sou vegetariana, feminista e fora Bolsonaro. Amo música, gatinhos, livros e viagens.
-
 📫 ruvila.m@gmail.com
