@@ -8,8 +8,6 @@ My name is Rúvila, I'm 29 years old and I'm a journalist graduated by ECA-USP i
 
 🌱 Javascript e ReactJS
 
-💬 Busco formas de relacionar jornalismo e tecnologia sempre que possível. 
-
-🐣 Estou disposta a ajudar mulheres que querem mudar de carreira também. 
+🐣 Estou disposta a ajudar mulheres que querem mudar de carreira também. Available to help women change their careers. 
 
 📫 ruvila.m@gmail.com
