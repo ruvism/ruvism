@@ -1,10 +1,12 @@
 # Hello world 👋
 
-Meu nome é Rúvila, tenho 28 anos e me formei em jornalismo pela ECA-USP em 2016. Em 2018 comecei minha transição de carreira e hoje em dia trabalho como desenvolvedora front-end!
+Meu nome é Rúvila, tenho 29 anos e me formei em jornalismo pela ECA-USP em 2016. Em 2018 comecei minha transição de carreira e hoje em dia trabalho como desenvolvedora front-end. 
 
-😄 Pronomes: ela/dela.
+My name is Rúvila, I'm 29 years old and I'm a journalist graduated by ECA-USP in 2016. Nowadays I work as front-end software engineer at Creditas and I'm based on Brazil.
 
-🌱 Estou estudando principalmente javascript e ReactJS!
+😄 Pronomes: ela/dela. She/her.
+
+🌱 Javascript e ReactJS
 
 💬 Busco formas de relacionar jornalismo e tecnologia sempre que possível. 
 
